@@ -1,4 +1,4 @@
-> *If only I knew what I don't.*
+> *If I only knew what I don't.*
 
 
 I write progressive web apps using:
