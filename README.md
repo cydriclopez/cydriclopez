@@ -2,12 +2,12 @@
 
 
 I write progressive web apps using:
-- Linux (Crostini-Debian, Ubuntu, Neon, Fedora, & etc.)
-- Go (Golang)
-- Angular (Primeng & Material Components)
-- Postgresql (using pgx driver)
-- Python (Beautiful Soup)
-- Docker (Nodejs & Postgresql images)
+- [Linux](https://www.linuxfoundation.org/) ([Crostini](https://chromeos.dev/en/linux)-[Debian](https://www.debian.org/intro/why_debian), [Ubuntu](https://ubuntu.com/desktop/features), [Neon](https://neon.kde.org/), [Fedora](https://getfedora.org/en/), & [etc.](https://www.linux.com/what-is-linux/))
+- [Go](https://go.dev/) (aka [Golang](https://github.com/golang/go/wiki/GoUsers#united-states), [100K+ stars in github](https://github.com/golang/go), [Chromedp e2e testing](https://github.com/chromedp/chromedp))
+- [Angular](https://angular.io/) ([Primeng](https://www.primefaces.org/primeng/setup) & [Material](https://material.angular.io/components/categories) Components)
+- [Postgresql](https://www.postgresql.org/) (using [pgx](https://github.com/jackc/pgx) driver)
+- [Python](https://www.python.org/) ([Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/))
+- [Docker](https://www.docker.com/) ([Node](https://hub.docker.com/_/node) & [Postgresql](https://hub.docker.com/_/postgres) images)
 
 These are just my humble work-in-progress personal notes that I share with teammates. Interspersed might be some opinions in IT. I like to say positive things about my IT experience in spite of actual experience. It is a better world that way.
 
