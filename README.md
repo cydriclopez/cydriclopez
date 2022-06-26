@@ -18,7 +18,7 @@ I'm a bit of a minimalist.  <ins>***I love the command line!***</ins>  Here you 
 The following list will become links to small projects in this repo as I go along. I am in the process of extracting and simplifying relevant code from projects I have done.
 
 1. [Dockerize your Angular dev environment](https://github.com/cydriclopez/docker-ng-dev)
-2. Dockerize your PostgreSQL dev environment
+2. [Dockerize your PostgreSQL dev environment](https://github.com/cydriclopez/docker-pg-dev)
 
 3. IT hiring is bananas
 4. Feed JSON data to a tree component
