@@ -1,5 +1,4 @@
-> *If I only knew what I don't.*
-
+> ***If I only knew what I don't.***
 
 I write progressive web apps using:
 - [Linux](https://www.linuxfoundation.org/) ([Crostini](https://chromeos.dev/en/linux)/[Debian](https://www.debian.org/intro/why_debian), [Ubuntu](https://ubuntu.com/desktop/features), [Neon](https://neon.kde.org/), [Fedora](https://getfedora.org/en/), & [etc.](https://www.linux.com/what-is-linux/))
@@ -29,7 +28,7 @@ The following list will become links to small projects in this repo as I go alon
 7. Generate JSON data from PostgreSQL
 8. Simple Go web app structure
 
-9. Fast encrypted backup system using gocryptfs and rsync
+9. Fast encrypted backup system using [gocryptfs](https://nuetzlich.net/gocryptfs/) and [rsync](https://rsync.samba.org/)
 10. Setup a [Gitea](https://gitea.io/en-us/) & [Buildbot](https://www.buildbot.net/) CI/CD system
 
 More to come...
