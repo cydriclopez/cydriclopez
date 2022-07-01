@@ -15,25 +15,22 @@ The required spectrum of knowledge in application software development is stagge
 
 I'm a bit of a minimalist.  <ins>***I love the command line!***</ins>  Here you will not find the use of fancy GUI tools with drag-and-drop and point-and-click. I like building those in the apps I write but for app development I am attracted to simple reliable tools.
 
-The following list will become links to small projects in this repo as I go along. I am in the process of extracting and simplifying relevant code from projects I have done.
+The following list will become links to small projects in this repo as I go along. I am in the process of extracting and simplifying relevant code from projects I have done. This list may change according to my interests.
 
 1. [Dockerize your Angular dev environment](https://github.com/cydriclopez/docker-ng-dev)
 2. [Dockerize your PostgreSQL dev environment](https://github.com/cydriclopez/docker-pg-dev)
 
-3. IT hiring is bananas
-4. Feed JSON data to a tree component
+3. Feed JSON data to a tree component
+4. Write a Go static file web server
 
-5. Write a Go static file web server
-6. IT pain is rampant
+5. Go POST JSON passthru controller
+6. Parse JSON in PostgreSQL to save records
 
-7. Go POST JSON passthru controller
-8. Parse JSON in PostgreSQL to save records
+7. Generate JSON data from PostgreSQL
+8. Simple Go web app structure
 
-9. Generate JSON data from PostgreSQL
-10. My LSD addiction (No! It's not what you think!)
-
-11. Fast encrypted backup system using gocryptfs and rsync
-12. Setup a Gitea-Buildbot CI/CD system
+9. Fast encrypted backup system using gocryptfs and rsync
+10. Setup a [Gitea](https://gitea.io/en-us/) & [Buildbot](https://www.buildbot.net/) CI/CD system
 
 More to come...
 
