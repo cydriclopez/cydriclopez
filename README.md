@@ -19,7 +19,7 @@ The following list will become links to small projects in this repo as I go alon
 1. [Dockerize your Angular dev environment](https://github.com/cydriclopez/docker-ng-dev)
 2. [Dockerize your PostgreSQL dev environment](https://github.com/cydriclopez/docker-pg-dev)
 
-3. Feed JSON data to a tree component
+3. [Feed JSON data to a tree component](https://github.com/cydriclopez/treemodule-json)
 4. Write a Go static file web server
 
 5. Go POST JSON passthru controller
