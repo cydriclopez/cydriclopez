@@ -14,6 +14,8 @@ The required spectrum of knowledge in application software development is stagge
 
 I'm a bit of a minimalist.  <ins>***I love the command line!***</ins>  Here you will not find the use of fancy GUI tools with drag-and-drop and point-and-click. I like building those in the apps I write but for app development I am attracted to simple reliable tools.
 
+The command line interface (cli) is easy. I simply keep a text file with all my often-used commands. I just tweak them, then copy from my editor with ***ctrl-c*** then paste them with ***ctrl-shift-v*** into the terminal. It is still dealing with text and so is not a change-of-context from dealing with text in source code.
+
 The following list will become links to small projects in this repo as I go along. I am in the process of extracting and simplifying relevant code from projects I have done. This list may change according to my interests.
 
 1. [Dockerize your Angular dev environment](https://github.com/cydriclopez/docker-ng-dev)
