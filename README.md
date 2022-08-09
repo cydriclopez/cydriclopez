@@ -24,7 +24,7 @@ The following list will become links to small projects in this repo as I go alon
 3. [Feed JSON data to a tree component](https://github.com/cydriclopez/treemodule-json)
 4. [Write a Go static file web server](https://github.com/cydriclopez/go-static-server)
 
-5. Go POST JSON passthru controller
+5. [Go POST JSON passthru controller](https://github.com/cydriclopez/go-post-json-passthru)
 6. Parse JSON in PostgreSQL to save records
 
 7. Generate JSON data from PostgreSQL
