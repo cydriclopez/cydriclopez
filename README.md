@@ -25,7 +25,7 @@ The following list will become links to small projects in this repo as I go alon
 4. [Write a Go static file web server](https://github.com/cydriclopez/go-static-server)
 
 5. [Go POST JSON passthru controller](https://github.com/cydriclopez/go-post-json-passthru)
-6. Parse JSON in PostgreSQL to save records
+6. [Parse JSON in PostgreSQL to save records](https://github.com/cydriclopez/pgsql-parse-json)
 
 7. Generate JSON data from PostgreSQL
 8. Simple Go web app structure
