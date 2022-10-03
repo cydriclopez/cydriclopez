@@ -27,7 +27,7 @@ The following list will become links to small projects in this repo as I go alon
 5. [Go POST JSON passthru controller](https://github.com/cydriclopez/go-post-json-passthru)
 6. [Parse JSON in PostgreSQL to save records](https://github.com/cydriclopez/pgsql-parse-json)
 
-7. Generate JSON data from PostgreSQL
+7. [Generate JSON data from PostgreSQL table](https://github.com/cydriclopez/pgsql-query-json)
 8. Simple Go web app structure
 
 9. Fast encrypted backup system using [gocryptfs](https://nuetzlich.net/gocryptfs/) and [rsync](https://rsync.samba.org/)
